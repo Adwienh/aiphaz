@@ -1,0 +1,22 @@
+<svg width="1280" height="218" viewBox="0 0 1280 218" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1228.79 34.6029C1410.31 68.5251 1543.75 142.061 1637.53 204.083L1636.98 204.917C1543.26 142.939 1409.95 69.4752 1228.6 35.5859C1047.26 1.69702 817.842 7.37616 531.917 103.728C292.391 184.444 97.5718 210.896 -70.4556 197.338C-238.488 183.78 -379.696 130.211 -512 50.9291L-511.486 50.0713C-379.289 129.289 -238.228 182.798 -70.3752 196.342C97.4824 209.886 292.163 183.466 531.597 102.78C817.672 6.37817 1047.26 0.680324 1228.79 34.6029Z" fill="url(#paint0_linear)"/>
+<circle cx="77.2571" cy="198.5" r="4.5" fill="#1CD6FF"/>
+<circle cx="77.2571" cy="198.5" r="10" stroke="#1CD6FF" stroke-opacity="0.7"/>
+<circle cx="77.2571" cy="198.5" r="19" stroke="#1CD6FF" stroke-opacity="0.2"/>
+<circle cx="380.257" cy="148.5" r="4.5" fill="#1CD6FF"/>
+<circle cx="380.257" cy="148.5" r="10" stroke="#1CD6FF" stroke-opacity="0.7"/>
+<circle cx="380.257" cy="148.5" r="19" stroke="#1CD6FF" stroke-opacity="0.2"/>
+<circle cx="675.5" cy="60.5" r="4.5" fill="#1CD6FF"/>
+<circle cx="675.5" cy="60.5" r="10" stroke="#1CD6FF" stroke-opacity="0.7"/>
+<circle cx="675.5" cy="60.5" r="19" stroke="#1CD6FF" stroke-opacity="0.2"/>
+<circle cx="940.257" cy="19.5" r="4.5" fill="#1CD6FF"/>
+<circle cx="940.257" cy="19.5" r="10" stroke="#1CD6FF" stroke-opacity="0.7"/>
+<circle cx="940.257" cy="19.5" r="19" stroke="#1CD6FF" stroke-opacity="0.2"/>
+<defs>
+<linearGradient id="paint0_linear" x1="1302.22" y1="-80.0046" x2="-221.139" y2="-80.0046" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1CD6FF" stop-opacity="0"/>
+<stop offset="0.489583" stop-color="#1CD6FF"/>
+<stop offset="1" stop-color="#1CD6FF" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,28 @@
+<svg width="140" height="140" viewBox="0 0 140 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="70" cy="70" r="69.5" stroke="white"/>
+<g clip-path="url(#clip0)">
+<circle cx="117.115" cy="117.115" r="18.8462" fill="#6CF089"/>
+<path d="M121.692 121.423L126.538 116.577L121.692 111.731" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M112.538 111.731L107.692 116.577L112.538 121.423" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="140" height="140">
+<circle cx="70" cy="70" r="70" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="33.6539" y="33.6538" width="129.231" height="109.038" rx="4" stroke="white"/>
+<rect x="44.9231" y="61.0769" width="38.0385" height="38.0385" rx="4.5" stroke="white"/>
+<rect x="44.9231" y="108.192" width="38.0385" height="38.0385" rx="4.5" stroke="white"/>
+<line x1="33.6539" y1="49.3077" x2="144.038" y2="49.3078" stroke="white"/>
+<line x1="91.5385" y1="68.1538" x2="201.923" y2="68.1538" stroke="white"/>
+<line x1="91.5385" y1="76.2307" x2="201.923" y2="76.2307" stroke="white"/>
+<line x1="91.5385" y1="84.3077" x2="201.923" y2="84.3077" stroke="white"/>
+<circle cx="41.7308" cy="41.7308" r="2.69231" stroke="white"/>
+<circle cx="52.5" cy="41.7308" r="2.69231" stroke="white"/>
+<circle cx="63.2692" cy="41.7308" r="2.69231" stroke="white"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="37.6923" height="37.6923" fill="white" transform="translate(98.2692 98.2693)"/>
+</clipPath>
+</defs>
+</svg>

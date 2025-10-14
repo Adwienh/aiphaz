@@ -1,0 +1,22 @@
+<svg width="104" height="104" viewBox="0 0 104 104" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="52" cy="52" r="51.5" stroke="white"/>
+<circle cx="87" cy="87" r="14" fill="#6CF089"/>
+<path d="M90.3999 90.2L93.9999 86.6L90.3999 83" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M83.6 83L80 86.6L83.6 90.2" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="104" height="104">
+<circle cx="52" cy="52" r="52" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="25" y="25" width="96" height="81" rx="4" stroke="white"/>
+<rect x="33.5" y="45.5" width="28" height="28" rx="4.5" stroke="white"/>
+<rect x="33.5" y="80.5" width="28" height="28" rx="4.5" stroke="white"/>
+<line x1="25" y1="36.5" x2="107" y2="36.5" stroke="white"/>
+<line x1="68" y1="50.5" x2="150" y2="50.5" stroke="white"/>
+<line x1="68" y1="56.5" x2="150" y2="56.5" stroke="white"/>
+<line x1="68" y1="62.5" x2="150" y2="62.5" stroke="white"/>
+<circle cx="31" cy="31" r="2" stroke="white"/>
+<circle cx="39" cy="31" r="2" stroke="white"/>
+<circle cx="47" cy="31" r="2" stroke="white"/>
+</g>
+<path d="M25 29C25 26.791 26.791 25 29 25H95.855C86.786 10.301 70.54 0.5 52 0.5C23.557 0.5 0.5 23.557 0.5 52C0.5 70.541 10.301 86.786 25 95.855V29Z" fill="white"/>
+</svg>

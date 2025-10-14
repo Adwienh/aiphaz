@@ -1,0 +1,54 @@
+{
+  "contact_email": "business@aiphaz.com",
+  "version": "1.0",
+  "sellers": [
+    {
+      "seller_id": "38940",
+      "seller_type": "Publisher",
+      "name": "Bubble Shooter",
+      "domain": "bubbler-shooter-game.web.app"
+    },
+    {
+      "seller_id": "38941",
+      "seller_type": "Publisher",
+      "name": "NexPL Dev",
+      "domain": "nexpldev.com"
+    },
+    {
+      "seller_id": "38942",
+      "seller_type": "Publisher",
+      "name": "bcaapps",
+      "domain": "matchmagic-tileconnection.github.io"
+    },
+    {
+      "seller_id": "38943",
+      "seller_type": "Publisher",
+      "name": "bcaapps",
+      "domain": "ring-match-out.github.io"
+    },
+    {
+      "seller_id": "38944",
+      "seller_type": "Publisher",
+      "name": "bcaapps",
+      "domain": "flowwater-connectpipes.github.io"
+    },
+    {
+      "seller_id": "38945",
+      "seller_type": "Publisher",
+      "name": "Uhud Soft",
+      "domain": "twilightloom.top"
+    },
+    {
+      "seller_id": "38946",
+      "seller_type": "Publisher",
+      "name": "SmokeSpotGames",
+      "domain": "smokespotgames.com"
+    },
+    {
+      "seller_id": "38947",
+      "seller_type": "Publisher",
+      "name": "Ngoteemun Folemom",
+      "domain": "ngoteemunfoleemom.com"
+    }
+  ]
+}
