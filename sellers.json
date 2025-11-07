@@ -1,54 +1,234 @@
 {
-  "contact_email": "business@aiphaz.com",
   "version": "1.0",
+  "identifiers": [],
   "sellers": [
     {
-      "seller_id": "38940",
-      "seller_type": "Publisher",
-      "name": "Bubble Shooter",
-      "domain": "bubbler-shooter-game.web.app"
-    },
-    {
       "seller_id": "38941",
-      "seller_type": "Publisher",
-      "name": "NexPL Dev",
-      "domain": "nexpldev.com"
+      "seller_type": "PUBLISHER",
+      "name": "Uhud Soft",
+      "domain": "twilightgloom.top"
     },
     {
-      "seller_id": "38942",
-      "seller_type": "Publisher",
-      "name": "bcaapps",
-      "domain": "matchmagic-tileconnection.github.io"
-    },
-    {
-      "seller_id": "38943",
-      "seller_type": "Publisher",
+      "seller_id": "38945",
+      "seller_type": "PUBLISHER",
       "name": "bcaapps",
       "domain": "ring-match-out.github.io"
     },
     {
+      "seller_id": "38936",
+      "seller_type": "PUBLISHER",
+      "name": "Ngoteemun Foleemom",
+      "domain": "nomabubble.github.io"
+    },
+    {
+      "seller_id": "39039",
+      "seller_type": "BOTH",
+      "name": "Terabox",
+      "domain": "terabox.com"
+    },
+    {
       "seller_id": "38944",
-      "seller_type": "Publisher",
-      "name": "bcaapps",
-      "domain": "flowwater-connectpipes.github.io"
+      "seller_type": "PUBLISHER",
+      "name": "NexPL Dev",
+      "domain": "nexpldev.com"
     },
     {
-      "seller_id": "38945",
-      "seller_type": "Publisher",
-      "name": "Uhud Soft",
-      "domain": "twilightloom.top"
+      "seller_id": "38940",
+      "seller_type": "PUBLISHER",
+      "name": "Bubble Shooter Game Studio",
+      "domain": "bubbler-shooter-game.web.app"
     },
     {
-      "seller_id": "38946",
-      "seller_type": "Publisher",
+      "seller_id": "38942",
+      "seller_type": "PUBLISHER",
       "name": "SmokeSpotGames",
       "domain": "smokespotgames.com"
     },
     {
-      "seller_id": "38947",
-      "seller_type": "Publisher",
-      "name": "Ngoteemun Folemom",
-      "domain": "ngoteemunfoleemom.com"
+      "seller_id": "38789",
+      "seller_type": "PUBLISHER",
+      "name": "Oppo",
+      "domain": "oppo.com/en/"
+    },
+    {
+      "seller_id": "38580",
+      "seller_type": "PUBLISHER",
+      "name": "utranit",
+      "domain": "utranit.com"
+    },
+    {
+      "seller_id": "38136",
+      "seller_type": "PUBLISHER",
+      "name": "Digital Media Rights",
+      "domain": "digitalmediarights.com"
+    },
+    {
+      "seller_id": "38945",
+      "seller_type": "PUBLISHER",
+      "name": "bcaapps",
+      "domain": "flowofwater-connectpipes.github.io"
+    },
+    {
+      "seller_id": "38135",
+      "seller_type": "PUBLISHER",
+      "name": "IKMY",
+      "domain": "mobpals.com"
+    },
+    {
+      "seller_id": "37859",
+      "seller_type": "PUBLISHER",
+      "name": "TCL",
+      "domain": "tcl.com"
+    },
+    {
+      "seller_id": "38139",
+      "seller_type": "PUBLISHER",
+      "name": "Snaptube",
+      "domain": "snaptube.com"
+    },
+    {
+      "seller_id": "37858",
+      "seller_type": "PUBLISHER",
+      "name": "April Studio",
+      "domain": "april-studio.com"
+    },
+    {
+      "seller_id": "37857",
+      "seller_type": "PUBLISHER",
+      "name": "Xiaomi",
+      "domain": "mi.com/global"
+    },
+    {
+      "seller_id": "38129",
+      "seller_type": "PUBLISHER",
+      "name": "Hisense",
+      "domain": "hisense.com"
+    },
+    {
+      "seller_id": "38945",
+      "seller_type": "PUBLISHER",
+      "name": "bcaapps",
+      "domain": "matchmagic-tileconnection.github.io"
+    },
+    {
+      "seller_id": "38229",
+      "seller_type": "PUBLISHER",
+      "name": "SophiaGames",
+      "domain": "bintimegames.net"
+    },
+    {
+      "seller_id": "38239",
+      "seller_type": "PUBLISHER",
+      "name": "Happibits Game",
+      "domain": "happibits.com"
+    },
+    {
+      "seller_id": "39074",
+      "seller_type": "INTERMEDIARY",
+      "name": "Vosaco",
+      "domain": "vosacosg.com"
+    },
+    {
+      "seller_id": "38885",
+      "seller_type": "INTERMEDIARY",
+      "name": "RixEngine",
+      "domain": "rixengine.com"
+    },
+    {
+      "seller_id": "39070",
+      "seller_type": "INTERMEDIARY",
+      "name": "BetweenX",
+      "domain": "betweenx.com"
+    },
+    {
+      "seller_id": "39119",
+      "seller_type": "INTERMEDIARY",
+      "name": "AlgoriX",
+      "domain": "algorix.co"
+    },
+    {
+      "seller_id": "39040",
+      "seller_type": "INTERMEDIARY",
+      "name": "Smarter",
+      "domain": "mobismarter.com"
+    },
+    {
+      "seller_id": "38489",
+      "seller_type": "INTERMEDIARY",
+      "name": "yeahmobi",
+      "domain": "yeahmobi.com"
+    },
+    {
+      "seller_id": "38906",
+      "seller_type": "INTERMEDIARY",
+      "name": "loopme",
+      "domain": "loopme.com"
+    },
+    {
+      "seller_id": "38678",
+      "seller_type": "INTERMEDIARY",
+      "name": "start.io",
+      "domain": "start.io"
+    },
+    {
+      "seller_id": "38668",
+      "seller_type": "INTERMEDIARY",
+      "name": "topon",
+      "domain": "toponad.com"
+    },
+    {
+      "seller_id": "38736",
+      "seller_type": "INTERMEDIARY",
+      "name": "adpopcorn",
+      "domain": "adpopcorn.com"
+    },
+    {
+      "seller_id": "37639",
+      "seller_type": "INTERMEDIARY",
+      "name": "krushmedia",
+      "domain": "krushmedia.com"
+    },
+    {
+      "seller_id": "38568",
+      "seller_type": "INTERMEDIARY",
+      "name": "ADOP",
+      "domain": "adop.cc"
+    },
+    {
+      "seller_id": "38475",
+      "seller_type": "INTERMEDIARY",
+      "name": "Buzzvil",
+      "domain": "buzzvil.com"
+    },
+    {
+      "seller_id": "38758",
+      "seller_type": "INTERMEDIARY",
+      "name": "Sonobi",
+      "domain": "sonobi.com"
+    },
+    {
+      "seller_id": "38677",
+      "seller_type": "INTERMEDIARY",
+      "name": "Yieldmo",
+      "domain": "yieldmo.com"
+    },
+    {
+      "seller_id": "38921",
+      "seller_type": "INTERMEDIARY",
+      "name": "adyoulike",
+      "domain": "adyoulike.com"
+    },
+    {
+      "seller_id": "38918",
+      "seller_type": "INTERMEDIARY",
+      "name": "underdogmedia",
+      "domain": "underdogmedia.com"
+    },
+    {
+      "seller_id": "38167",
+      "seller_type": "INTERMEDIARY",
+      "name": "adsgard",
+      "domain": "adsgard.net"
     }
   ]
 }
